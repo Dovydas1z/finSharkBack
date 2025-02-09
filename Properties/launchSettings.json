@@ -1,4 +1,4 @@
-{
+﻿{
   "$schema": "http://json.schemastore.org/launchsettings.json",
   "iisSettings": {
     "windowsAuthentication": false,
@@ -34,8 +34,7 @@
       "launchBrowser": true,
       "launchUrl": "swagger",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development",
-        "SigningKey": "testerfish43vfvdvfdvfdvfdvfdv4vfdv-44vdfvdfvfvdf444vfvfvdfvdf44444"
+        "ASPNETCORE_ENVIRONMENT": "Development"
       }
     }
   }
