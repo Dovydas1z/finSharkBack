@@ -141,3 +141,9 @@
 /Users/dovydaszulpa/Desktop/csharp/FinShark-master/api/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
 /Users/dovydaszulpa/Desktop/csharp/FinShark-master/api/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/dovydaszulpa/Desktop/csharp/FinShark-master/api/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/dovydaszulpa/Desktop/csharp/FinShark-master/api/bin/Debug/net8.0/publish/web.config
+/Users/dovydaszulpa/Desktop/csharp/FinShark-master/api/bin/Debug/net8.0/publish/api.deps.json
+/Users/dovydaszulpa/Desktop/csharp/FinShark-master/api/bin/Debug/net8.0/publish/api.runtimeconfig.json
+/Users/dovydaszulpa/Desktop/csharp/FinShark-master/api/bin/Debug/net8.0/publish/appsettings.Development.json
+/Users/dovydaszulpa/Desktop/csharp/FinShark-master/api/bin/Debug/net8.0/publish/appsettings.json
+/Users/dovydaszulpa/Desktop/csharp/FinShark-master/api/obj/Debug/net8.0/api.sourcelink.json
